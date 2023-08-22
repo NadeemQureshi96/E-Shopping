@@ -1,0 +1,14 @@
+.banner {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    top: 50px;
+    left: 350px;
+
+    font-size:100px;
+    color: white;
+    
+  }
